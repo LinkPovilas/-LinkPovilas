@@ -8,6 +8,6 @@ CucumberJS with Playwright [https://github.com/LinkPovilas/playwright-cucumber-b
 
 ### Other projects
 
-Experimental CLI tool for recreating Playwright's sharding mechanism for CucumberJS [https://github.com/LinkPovilas/pickle-jar-cli](https://www.npmjs.com/package/@pickle-jar/cli)
+Experimental CLI tool for recreating Playwright's sharding mechanism for CucumberJS [https://www.npmjs.com/package/@pickle-jar/cli](https://www.npmjs.com/package/@pickle-jar/cli)
 
 Implementation in GitHub CI [https://github.com/LinkPovilas/example-cucumber-js](https://github.com/LinkPovilas/example-cucumber-js)
