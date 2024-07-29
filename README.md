@@ -8,7 +8,7 @@ Link to guides: [https://github.com/LinkPovilas/end-to-end-test-guides/](https:/
 
 Playwright with Lean Page Object Model Pattern [https://github.com/LinkPovilas/playwright-boilerplate](https://github.com/LinkPovilas/playwright-boilerplate)
 
-CucumberJS with Playwright [https://github.com/LinkPovilas/playwright-cucumber-boilerplate](https://github.com/LinkPovilas/playwright-cucumber-boilerplate)
+Cucumber.js with Playwright [https://github.com/LinkPovilas/playwright-cucumber-boilerplate](https://github.com/LinkPovilas/playwright-cucumber-boilerplate)
 
 ## Other projects
 
