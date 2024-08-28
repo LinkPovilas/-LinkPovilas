@@ -24,8 +24,8 @@
 
 <hr />
 
-<div align="center">
-  <ul style="list-style-type: none; padding: 0; text-align: left; display: inline-block;">
+<div>
+  <ul>
     <li><a href="https://github.com/LinkPovilas/end-to-end-test-guides">End-to-end test guides</a></li>
     <li><a href="https://github.com/LinkPovilas/playwright-boilerplate">Playwright with Lean Page Object Model Pattern template</a></li>
     <li><a href="https://github.com/LinkPovilas/playwright-cucumber-boilerplate">Cucumber.js with Playwright template</a></li>
