@@ -1,5 +1,3 @@
-
-
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBlNnJ4d3lkMnA0a3E0ZWluamsya3drOTM3cTR5djRpZ2xtMnJydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CAIgh8LKFbIciGx5Qe/giphy.webp" width="100"/>
 </div>
@@ -36,7 +34,6 @@
 </div>
 
 <hr />
-
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/povilas-linkevicius">
